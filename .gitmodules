@@ -1,0 +1,6 @@
+[submodule "apps/documentcloud-frontend"]
+	path = apps/documentcloud-frontend
+	url = git@github.com:MuckRock/documentcloud-frontend.git
+[submodule "apps/documentcloud"]
+	path = apps/documentcloud
+	url = git@github.com:MuckRock/documentcloud.git
